@@ -1,2 +1,2 @@
 # IntroHDL
-IntroHDL assignment
+IntroHDL terraform assignment
